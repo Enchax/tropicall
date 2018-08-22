@@ -1,0 +1,67 @@
+
+	<h1>Tropical Rainforest Trust</h1>
+	<div class="row">
+			<div class="col-6">
+				<h2>Tropical</h2>
+				<p>Tropical rainforests are characterized by a warm and wet climate with no substantial dry season: typically found within 10 degrees north and south of the equator. Mean monthly temperatures exceed 18 degree celsius(64 degree  fahrenheit ) during all months of the year.[6] Average annual rainfall is no less than 168 cm (66 in) and can exceed 1,000 cm (390 in) although it typically lies between 175 cm (69 in) and 200 cm (79 in).</p>	
+			</div>
+			<div class="col-6">
+				<h2>Layers</h2>
+				<p>A tropical rainforest typically has a number of layers, each with different plants and animals adapted for life in that particular area. Examples include the emergent, canopy, understory and forest floor layers.</p>		
+			</div>
+			<div class="col-6">
+				<h2>Human uses</h2>
+				<p>Tropical rainforests provide timber as well as animal products such as meat and hides. Rainforests also have value as tourism destinations and for the ecosystem services provided. Many foods originally came from tropical forests, and are still mostly grown on plantations in regions that were formerly primary forest.[23] Also, plant-derived medicines are commonly used for fever, fungal infections, burns, gastrointestinal problems, pain, respiratory problems, and wound treatment.[24] At the same time, rainforests are usually not used sustainably by non-native peoples but are being exploited or removed for agricultural purposes.</p>	
+			</div>
+<iframe width="320" height="240"
+src="https://www.youtube.com/embed/DkOHaLOe1pQ">
+</iframe>
+</div>
+<br><br><br>
+<footer>
+	<div id="footer">
+		<div class="row-one">
+			<div class="col-3">
+				<h2>Strategy First</h2>
+				<hr>
+				<p>#8, Ground Floor, Pan Chan Tower, Bagayar Road, Myaynigone, Sanchaung Township, Yangon, Myanmar
+
+
+#239, Pyay Road (near Myay Ni Gone City Mart), San Chaung Township, Yangon, Myanmar 
+
+
+#237, Corner of U Wizara Raod and Dhamazedi Road, San Chaung Township, Yangon, Myanmar
+
+ 
+
+#575,Pyay Road, Helden, Kamayut Township, Yangon, Myanmar
+				</p>
+			</div>
+			<div class="col-3">
+				<h2>header</h2>
+				<hr>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				</p>
+			</div>
+			<div class="col-3">
+				<h2>header</h2>
+				<hr>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				</p>
+			</div>
+			<div class="col-3">
+				<h2>Social Media</h2>
+				<hr>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut </p>
+				<a href="https://en-gb.facebook.com/"><img src="facebook.png" alt="Facebook logo" height="20px" width="30px"></a>
+				<a href=""><img src="instagram.png" alt="Instagram logo" height="50px" width="50px"></a>
+				<br>
+				<a href=""><img src="youtube.png" alt="Youtube logo" height="50px" width="50px"></a>
+				<a href="https://twitter.com/"><img src="twitter.png" alt="Twitter logo" height="50px" width="50px"></a>
+			</div>
+
+</div>
+
+</footer>

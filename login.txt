@@ -1,0 +1,64 @@
+<form class="box" action="community.html" method="post">
+	<h2>Tropical Rainforest Trust</h2>
+	<input type="text" name="" placeholder="Username">
+	<input type="password" name="" placeholder="Password">
+	<input type="submit" name="" value="Login">
+</form>
+.box {
+	width:300px;
+	padding: 30px;
+	position: absolute;
+	top: 40%;
+	left: 80%;
+	transform: translate(-50%,-50%);
+	background: #000000;
+	text-align: center;
+	border: 3px solid white;
+	background-image: url('cherry.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+    background-attachment: center;
+  
+}
+.box h2 {
+	color :#b3b3b3;
+	text-transform: uppercase;
+	font-weight: 500;
+	border: 0;
+}
+.box input[type = "text"],.box input[type = "password"]{
+	border:0;
+	background: none;
+	display: block;
+	margin: 20px auto;
+	text-align: center;
+	border:2px solid #ffff33;
+	padding: 14px 10px;
+	width: 200px;
+	outline: none;
+	color: white;
+	border-radius: 24px;
+	transition: 0.25s;
+
+}
+.box input[type = "text"]:focus,.box input[type = "password"]:focus{
+	width: 280px;
+	border-color: #336600; 
+}
+.box input[type = "submit"]{
+	border: 0;
+	background: none;
+	display: block;
+	margin: 20px auto;
+	text-align: center;
+	border: 2px solid #d9ffb3;
+	padding: 14px 40px;
+	outline: none;
+	color: white;
+	border-radius :24px;
+	transition: 0.25s;
+	cursor: pointer;
+}
+.box input[type = "submit"]:hover{
+	background: #800000;
+}

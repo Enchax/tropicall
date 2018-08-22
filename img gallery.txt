@@ -1,0 +1,211 @@
+	</div>
+	<div class="gallery">
+  <a target="_blank" href="anteater.jpg">
+    <img src="anteater.jpg" alt="anteater" width="300" height="200">
+  </a>
+
+  <div class="desc">Anteater <br> 
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="GL.jpg">
+    <img src="GL.jpg" alt="GL" width="300" height="200">
+  </a>
+  <div class="desc">
+
+Golden Lion Tamarin
+</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="V.jpg">
+    <img src="V.jpg" alt="V" width="300" height="200">
+  </a>
+  <div class="desc">Binturong<br>
+
+</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="JG.jpg">
+    <img src="JG.jpg" alt="JG" width="300" height="200">
+  </a>
+  <div class="desc">Jaguar
+</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="BB.jpg">
+    <img src="BB.jpg" alt="BB" width="300" height="200">
+  </a>
+  <div class="desc">Blue Morpho Butterfly
+</div>
+</div>
+		<div class="col-7">
+				<h2>Rainforest Animals</h2>
+				<p>Rainforests are home to an incredibly diverse range of animals.<br> This page contains a list of many of the most famous rainforest animals, but there are many more.</p>	
+			</div>
+</div>
+<br><br><br>
+<div class="gallery">
+  <a target="_blank" href="CB.jpg">
+    <img src="CB.jpg" alt="CB" width="300" height="200">
+  </a>
+  <div class="desc">Capybara
+</div>
+</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="PF.jpg">
+    <img src="PF.jpg" alt="PF" width="300" height="200">
+  </a>
+  <div class="desc">
+Poison Dart Frog
+</div>
+</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="I.jpg">
+    <img src="I.jpg" alt="I" width="300" height="200">
+  </a>
+  <div class="desc">
+Iguana
+</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="BT.jpg">
+    <img src="BT.jpg" alt="I" width="300" height="200">
+  </a>
+  <div class="desc">
+Boto
+</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="TT.jpg">
+    <img src="TT.jpg" alt="TT" width="300" height="200">
+  </a>
+  <div class="desc">Toco Toucan
+</div>
+</div>
+<br><br><br><br><br><br>
+<br><br><br><br><br><br>
+<hr>
+<div class="gallery">
+  <a target="_blank" href="BM.jpg">
+    <img src="BM.jpg" alt="BM" width="300" height="200">
+  </a>
+  <div class="desc">
+Bromeliads</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="R.jpg">
+    <img src="R.jpg" alt="R" width="300" height="200">
+  </a>
+  <div class="desc">Rattan Palm<br>
+</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="L.jpg">
+    <img src="L.jpg" alt="L" width="300" height="200">
+  </a>
+  <div class="desc">Amazon water lily (Victoria amazonica)</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="RB.jpg">
+    <img src="RB.jpg" alt="R" width="300" height="200">
+  </a>
+  <div class="desc">Rubber Tree (Hevea brasiliensis)</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="BO.jpg">
+    <img src="BO.jpg" alt="BO" width="300" height="200">
+  </a>
+  <div class="desc">Bougainvillea<br>
+
+</div>
+</div>
+</div>
+		<div class="col-7">
+				<h2>Rainforest Plants</h2>
+				<p>Rainforests are also home to an incredibly diverse range of plants.<br> This page contains a list of many of the most famous rainforest plants, but there are many more.</p>	
+			</div>
+</div>
+<br><br><br>
+<div class="gallery">
+  <a target="_blank" href="RF.jpg">
+    <img src="RF.jpg" alt="RF" width="300" height="200">
+  </a>
+  <div class="desc">Corpse Flower (Rafflesia arnoldii)<br>
+
+</div>
+</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="PR.jpg">
+    <img src="PR.jpg" alt="PR" width="300" height="200">
+  </a>
+  <div class="desc">
+Pitcher Plants
+</div>
+</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="BR.jpg">
+    <img src="BR.jpg" alt="BR" width="300" height="200">
+  </a>
+  <div class="desc">
+Kapok (Ceiba pentandra)<br>
+
+</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="D.jpg">
+    <img src="D.jpg" alt="D" width="300" height="200">
+  </a>
+  <div class="desc">
+Durian (Genus: Durio)<br>
+</div>
+</div>
+<br>
+	</div>
+	<div class="gallery">
+  <a target="_blank" href="EP.jpg">
+    <img src="EP.jpg" alt="EP" width="300" height="200">
+  </a>
+
+<div class="desc">Epiphytes<br>
+
+</div>
+
+
+div.gallery {
+    margin: 7px;
+    border: 2px solid #ccc;
+    float: left;
+    width: 175px;
+    background-color: white;
+    justify-content: center; 
+    
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 18px;
+    text-align: center;
+}
+* {
+	padding:0;
+	margin:0;
+}
